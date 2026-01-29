@@ -30,3 +30,12 @@ It is interesting to me to see that the drivers for this shift (developer happin
 And it's implied in these articles that "strictness" in a language often leads to greater freedom and velocity in the long run.
 
 > [Why Tech Giants Are Going for RUST](https://www.youtube.com/watch?v=DvY1-993OBE): This video also provides excellent context on why major tech companies are aggressively adopting Rust, reinforcing the trends seen in both the Python tooling landscape and Meta's infrastructure.
+
+---
+
+## Comment From Frank Wu
+I found the survey valuable because it frames typing as a developer-experience multiplier rather than just “more correctness.”
+One point I’m curious about is how teams balance stricter typing with onboarding speed, especially when third-party libs remain partially typed.
+If the ecosystem keeps moving toward faster Rust-based checkers, I think typing will become the default expectation for production Python.
+
+
